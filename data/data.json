@@ -1,0 +1,402 @@
+{
+	"scores": [
+		{
+			"skill": "A",
+			"score": 7
+		},
+		{
+			"skill": "A",
+			"score": 6
+		},
+		{
+			"skill": "A",
+			"score": 5
+		},
+		{
+			"skill": "A",
+			"score": 8
+		},
+		{
+			"skill": "A",
+			"score": 7
+		},
+		{
+			"skill": "A",
+			"score": 6
+		},
+		{
+			"skill": "A",
+			"score": 4
+		},
+		{
+			"skill": "A",
+			"score": 8
+		},
+		{
+			"skill": "A",
+			"score": 7
+		},
+		{
+			"skill": "A",
+			"score": 5
+		},
+		{
+			"skill": "B",
+			"score": 5
+		},
+		{
+			"skill": "B",
+			"score": 6
+		},
+		{
+			"skill": "B",
+			"score": 7
+		},
+		{
+			"skill": "B",
+			"score": 4
+		},
+		{
+			"skill": "B",
+			"score": 8
+		},
+		{
+			"skill": "B",
+			"score": 6
+		},
+		{
+			"skill": "B",
+			"score": 7
+		},
+		{
+			"skill": "B",
+			"score": 5
+		},
+		{
+			"skill": "B",
+			"score": 6
+		},
+		{
+			"skill": "B",
+			"score": 7
+		},
+		{
+			"skill": "D",
+			"score": 6
+		},
+		{
+			"skill": "D",
+			"score": 5
+		},
+		{
+			"skill": "D",
+			"score": 7
+		},
+		{
+			"skill": "D",
+			"score": 8
+		},
+		{
+			"skill": "D",
+			"score": 4
+		},
+		{
+			"skill": "D",
+			"score": 6
+		},
+		{
+			"skill": "D",
+			"score": 7
+		},
+		{
+			"skill": "D",
+			"score": 5
+		},
+		{
+			"skill": "D",
+			"score": 6
+		},
+		{
+			"skill": "D",
+			"score": 8
+		},
+		{
+			"skill": "K",
+			"score": 8
+		},
+		{
+			"skill": "K",
+			"score": 7
+		},
+		{
+			"skill": "K",
+			"score": 5
+		},
+		{
+			"skill": "K",
+			"score": 6
+		},
+		{
+			"skill": "K",
+			"score": 7
+		},
+		{
+			"skill": "K",
+			"score": 4
+		},
+		{
+			"skill": "K",
+			"score": 8
+		},
+		{
+			"skill": "K",
+			"score": 5
+		},
+		{
+			"skill": "K",
+			"score": 7
+		},
+		{
+			"skill": "K",
+			"score": 6
+		},
+		{
+			"skill": "M",
+			"score": 7
+		},
+		{
+			"skill": "M",
+			"score": 6
+		},
+		{
+			"skill": "M",
+			"score": 5
+		},
+		{
+			"skill": "M",
+			"score": 8
+		},
+		{
+			"skill": "M",
+			"score": 4
+		},
+		{
+			"skill": "M",
+			"score": 6
+		},
+		{
+			"skill": "M",
+			"score": 7
+		},
+		{
+			"skill": "M",
+			"score": 5
+		},
+		{
+			"skill": "M",
+			"score": 8
+		},
+		{
+			"skill": "M",
+			"score": 6
+		},
+		{
+			"skill": "N",
+			"score": 4
+		},
+		{
+			"skill": "N",
+			"score": 5
+		},
+		{
+			"skill": "N",
+			"score": 7
+		},
+		{
+			"skill": "N",
+			"score": 6
+		},
+		{
+			"skill": "N",
+			"score": 8
+		},
+		{
+			"skill": "N",
+			"score": 5
+		},
+		{
+			"skill": "N",
+			"score": 7
+		},
+		{
+			"skill": "N",
+			"score": 6
+		},
+		{
+			"skill": "N"
+		},
+		{
+			"skill": "N",
+			"score": 8
+		},
+		{
+			"skill": "E",
+			"score": 9
+		},
+		{
+			"skill": "E",
+			"score": 7
+		},
+		{
+			"skill": "E",
+			"score": null
+		},
+		{
+			"skill": "E",
+			"score": 6
+		},
+		{
+			"skill": "E",
+			"score": 8
+		},
+		{
+			"skill": "E",
+			"score": 5
+		},
+		{
+			"skill": "E",
+			"score": 6
+		},
+		{
+			"skill": "E",
+			"score": "cat"
+		},
+		{
+			"skill": "E",
+			"score": 4
+		},
+		{
+			"skill": "E",
+			"score": 8
+		},
+		{
+			"skill": "F",
+			"score": 6
+		},
+		{
+			"skill": "F",
+			"score": 5
+		},
+		{
+			"skill": "F",
+			"score": 7
+		},
+		{
+			"skill": "F",
+			"score": 4
+		},
+		{
+			"skill": "F",
+			"score": 8
+		},
+		{
+			"skill": "F",
+			"score": 5
+		},
+		{
+			"skill": "F",
+			"score": 7
+		},
+		{
+			"skill": "F",
+			"score": 6
+		},
+		{
+			"skill": "F",
+			"score": 5
+		},
+		{
+			"skill": "F",
+			"score": 25
+		},
+		{
+			"skill": "G",
+			"score": 5
+		},
+		{
+			"skill": "G",
+			"score": 6
+		},
+		{
+			"skill": "G",
+			"score": 8
+		},
+		{
+			"skill": "G",
+			"score": 7
+		},
+		{
+			"skill": "G",
+			"score": 4
+		},
+		{
+			"skill": "G",
+			"score": 6
+		},
+		{
+			"skill": "G",
+			"score": 5
+		},
+		{
+			"skill": "G",
+			"score": 7
+		},
+		{
+			"skill": "G",
+			"score": 8
+		},
+		{
+			"skill": "G",
+			"score": 5
+		},
+		{
+			"skill": "S",
+			"score": 7
+		},
+		{
+			"skill": "S",
+			"score": 6
+		},
+		{
+			"skill": "S",
+			"score": 5
+		},
+		{
+			"skill": "S",
+			"score": 12.1
+		},
+		{
+			"skill": "S",
+			"score": 4
+		},
+		{
+			"skill": "S",
+			"score": 6
+		},
+		{
+			"score": 5
+		},
+		{
+			"skill": "S",
+			"score": 8
+		},
+		{
+			"skill": "S",
+			"score": 7
+		},
+		{
+			"skill": "S",
+			"score": 6
+		}
+	]
+}
